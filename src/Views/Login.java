@@ -92,7 +92,7 @@ public class Login extends javax.swing.JFrame {
         txtUser.setBackground(new java.awt.Color(254, 254, 254));
         txtUser.setFont(new java.awt.Font("Cantarell", 1, 16)); // NOI18N
         txtUser.setForeground(new java.awt.Color(143, 143, 143));
-        txtUser.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtUser.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtUser.setCaretColor(new java.awt.Color(67, 160, 238));
         txtUser.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtUser.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -105,7 +105,7 @@ public class Login extends javax.swing.JFrame {
 
         txtPassword.setFont(new java.awt.Font("Cantarell", 1, 16)); // NOI18N
         txtPassword.setForeground(new java.awt.Color(143, 143, 143));
-        txtPassword.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtPassword.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtPassword.setCaretColor(new java.awt.Color(67, 160, 238));
         txtPassword.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtPassword.addKeyListener(new java.awt.event.KeyAdapter() {
@@ -186,11 +186,11 @@ public class Login extends javax.swing.JFrame {
                             .addGroup(jPanel1Layout.createSequentialGroup()
                                 .addComponent(jLabel13, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                             .addGroup(jPanel1Layout.createSequentialGroup()
                                 .addComponent(jLabel11, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                                .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
                     .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel1Layout.createSequentialGroup()
                         .addGap(41, 41, 41)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

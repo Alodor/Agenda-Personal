@@ -363,7 +363,7 @@ public class Principal extends javax.swing.JFrame {
         txtNombre.setBackground(new java.awt.Color(254, 254, 254));
         txtNombre.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtNombre.setForeground(new java.awt.Color(143, 143, 143));
-        txtNombre.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtNombre.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtNombre.setCaretColor(new java.awt.Color(67, 160, 238));
         txtNombre.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtNombre.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -379,7 +379,7 @@ public class Principal extends javax.swing.JFrame {
         txtApellido.setBackground(new java.awt.Color(254, 254, 254));
         txtApellido.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtApellido.setForeground(new java.awt.Color(143, 143, 143));
-        txtApellido.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtApellido.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtApellido.setCaretColor(new java.awt.Color(67, 160, 238));
         txtApellido.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtApellido.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -396,7 +396,7 @@ public class Principal extends javax.swing.JFrame {
         txtAlias.setBackground(new java.awt.Color(254, 254, 254));
         txtAlias.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtAlias.setForeground(new java.awt.Color(143, 143, 143));
-        txtAlias.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtAlias.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtAlias.setCaretColor(new java.awt.Color(67, 160, 238));
         txtAlias.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtAlias.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -413,7 +413,7 @@ public class Principal extends javax.swing.JFrame {
         txtTelefono1.setBackground(new java.awt.Color(254, 254, 254));
         txtTelefono1.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtTelefono1.setForeground(new java.awt.Color(143, 143, 143));
-        txtTelefono1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtTelefono1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtTelefono1.setCaretColor(new java.awt.Color(67, 160, 238));
         txtTelefono1.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtTelefono1.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -430,7 +430,7 @@ public class Principal extends javax.swing.JFrame {
         txtTelefono2.setBackground(new java.awt.Color(254, 254, 254));
         txtTelefono2.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtTelefono2.setForeground(new java.awt.Color(143, 143, 143));
-        txtTelefono2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtTelefono2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtTelefono2.setCaretColor(new java.awt.Color(67, 160, 238));
         txtTelefono2.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtTelefono2.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -447,7 +447,7 @@ public class Principal extends javax.swing.JFrame {
         txtEmail1.setBackground(new java.awt.Color(254, 254, 254));
         txtEmail1.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtEmail1.setForeground(new java.awt.Color(143, 143, 143));
-        txtEmail1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtEmail1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtEmail1.setCaretColor(new java.awt.Color(67, 160, 238));
         txtEmail1.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtEmail1.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -464,7 +464,7 @@ public class Principal extends javax.swing.JFrame {
         txtEmail2.setBackground(new java.awt.Color(254, 254, 254));
         txtEmail2.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtEmail2.setForeground(new java.awt.Color(143, 143, 143));
-        txtEmail2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtEmail2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtEmail2.setCaretColor(new java.awt.Color(67, 160, 238));
         txtEmail2.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtEmail2.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -660,7 +660,7 @@ public class Principal extends javax.swing.JFrame {
         txtNombreEditar.setBackground(new java.awt.Color(254, 254, 254));
         txtNombreEditar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtNombreEditar.setForeground(new java.awt.Color(143, 143, 143));
-        txtNombreEditar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtNombreEditar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtNombreEditar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtNombreEditar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtNombreEditar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -676,7 +676,7 @@ public class Principal extends javax.swing.JFrame {
         txtApellidoEditar.setBackground(new java.awt.Color(254, 254, 254));
         txtApellidoEditar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtApellidoEditar.setForeground(new java.awt.Color(143, 143, 143));
-        txtApellidoEditar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtApellidoEditar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtApellidoEditar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtApellidoEditar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtApellidoEditar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -693,7 +693,7 @@ public class Principal extends javax.swing.JFrame {
         txtAliasEditar.setBackground(new java.awt.Color(254, 254, 254));
         txtAliasEditar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtAliasEditar.setForeground(new java.awt.Color(143, 143, 143));
-        txtAliasEditar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtAliasEditar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtAliasEditar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtAliasEditar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtAliasEditar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -710,7 +710,7 @@ public class Principal extends javax.swing.JFrame {
         txtTelefono1Editar.setBackground(new java.awt.Color(254, 254, 254));
         txtTelefono1Editar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtTelefono1Editar.setForeground(new java.awt.Color(143, 143, 143));
-        txtTelefono1Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtTelefono1Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtTelefono1Editar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtTelefono1Editar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtTelefono1Editar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -727,7 +727,7 @@ public class Principal extends javax.swing.JFrame {
         txtTelefono2Editar.setBackground(new java.awt.Color(254, 254, 254));
         txtTelefono2Editar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtTelefono2Editar.setForeground(new java.awt.Color(143, 143, 143));
-        txtTelefono2Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtTelefono2Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtTelefono2Editar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtTelefono2Editar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtTelefono2Editar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -744,7 +744,7 @@ public class Principal extends javax.swing.JFrame {
         txtEmail1Editar.setBackground(new java.awt.Color(254, 254, 254));
         txtEmail1Editar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtEmail1Editar.setForeground(new java.awt.Color(143, 143, 143));
-        txtEmail1Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtEmail1Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtEmail1Editar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtEmail1Editar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtEmail1Editar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -761,7 +761,7 @@ public class Principal extends javax.swing.JFrame {
         txtEmail2Editar.setBackground(new java.awt.Color(254, 254, 254));
         txtEmail2Editar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtEmail2Editar.setForeground(new java.awt.Color(143, 143, 143));
-        txtEmail2Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtEmail2Editar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtEmail2Editar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtEmail2Editar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtEmail2Editar.setMinimumSize(new java.awt.Dimension(16, 35));
@@ -1094,24 +1094,25 @@ public class Principal extends javax.swing.JFrame {
                                 .addComponent(lblIdContacto, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addContainerGap())
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel5Layout.createSequentialGroup()
-                                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
                                     .addGroup(jPanel5Layout.createSequentialGroup()
                                         .addComponent(imageEmail)
                                         .addGap(18, 18, 18)
                                         .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                                             .addComponent(lblEmail2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                             .addComponent(lblEmail1, javax.swing.GroupLayout.PREFERRED_SIZE, 399, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel5Layout.createSequentialGroup()
-                                        .addComponent(imageTelefono)
-                                        .addGap(18, 18, 18)
-                                        .addComponent(lblTelefono1, javax.swing.GroupLayout.PREFERRED_SIZE, 137, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(lblTelefono2, javax.swing.GroupLayout.PREFERRED_SIZE, 137, javax.swing.GroupLayout.PREFERRED_SIZE))
                                     .addGroup(jPanel5Layout.createSequentialGroup()
-                                        .addComponent(imageGrupo)
+                                        .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                                            .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanel5Layout.createSequentialGroup()
+                                                .addComponent(imageTelefono)
+                                                .addGap(18, 18, 18)
+                                                .addComponent(lblTelefono1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                                            .addGroup(jPanel5Layout.createSequentialGroup()
+                                                .addComponent(imageGrupo)
+                                                .addGap(18, 18, 18)
+                                                .addComponent(lblGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 184, javax.swing.GroupLayout.PREFERRED_SIZE)))
                                         .addGap(18, 18, 18)
-                                        .addComponent(lblGrupo, javax.swing.GroupLayout.PREFERRED_SIZE, 184, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addGap(215, 215, 215)))
+                                        .addComponent(lblTelefono2, javax.swing.GroupLayout.PREFERRED_SIZE, 197, javax.swing.GroupLayout.PREFERRED_SIZE)))
                                 .addGap(66, 66, 66))))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel5Layout.createSequentialGroup()
                         .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
@@ -1196,7 +1197,7 @@ public class Principal extends javax.swing.JFrame {
         txtBuscar.setBackground(new java.awt.Color(254, 254, 254));
         txtBuscar.setFont(new java.awt.Font("Cantarell", 1, 14)); // NOI18N
         txtBuscar.setForeground(new java.awt.Color(143, 143, 143));
-        txtBuscar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(240, 240, 240), 1, true));
+        txtBuscar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(195, 195, 195), 1, true));
         txtBuscar.setCaretColor(new java.awt.Color(67, 160, 238));
         txtBuscar.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         txtBuscar.setMinimumSize(new java.awt.Dimension(16, 35));
